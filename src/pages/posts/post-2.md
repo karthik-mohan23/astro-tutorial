@@ -9,4 +9,9 @@ pubDate: 2022-07-08
 tags: ["astro", "blogging", "learning in public", "successes"]
 ---
 
-After a successful first week learning Astro, I decided to try some more. I wrote and imported a small component from memory!
+## Add dynamic content about you
+
+### Takeaways
+
+- Define variables in your Astro script using JavaScript or TypeScript expressions.
+- Use these variables in your Astro template inside curly braces { } to tell Astro you’re using some JavaScript.
