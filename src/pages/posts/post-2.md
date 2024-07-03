@@ -1,17 +1,13 @@
 ---
-title: My Second Blog Post
-author: Astro Learner
-description: "After learning some Astro, I couldn't stop!"
+layout: ../../layouts/MarkdownPostLayout.astro
+title: "My Second Blog Post"
+pubDate: 2022-07-01
+description: "This is the second post of my new Astro blog."
+author: "Astro Learner"
 image:
-  url: "https://docs.astro.build/assets/arc.webp"
-  alt: "The Astro logo on a dark background with a purple gradient arc."
-pubDate: 2022-07-08
-tags: ["astro", "blogging", "learning in public", "successes"]
+  url: "https://docs.astro.build/assets/rose.webp"
+  alt: "The Astro logo on a dark background with a pink glow."
+tags: ["astro", "blogging", "learning in public"]
 ---
 
-## Add dynamic content about you
-
-### Takeaways
-
-- Define variables in your Astro script using JavaScript or TypeScript expressions.
-- Use these variables in your Astro template inside curly braces { } to tell Astro you’re using some JavaScript.
+This is the second post of my new Astro blog.
